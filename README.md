@@ -1,2 +1,2 @@
-Shopping website <br/>
-used skills: JS,CSS,HTML <br/>
+## Shopping website
+used skills: JS,CSS,HTML
